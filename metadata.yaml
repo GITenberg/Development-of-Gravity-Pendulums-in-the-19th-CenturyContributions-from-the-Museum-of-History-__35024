@@ -1,0 +1,37 @@
+_repo: Development-of-Gravity-Pendulums-in-the-19th-CenturyContributions-from-the-Museum-of-History-__35024
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35024-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Lenzen, Victor F. (Victor Fritz)
+    aliases:
+    - Lenzen, V. F. (Victor Fritz)
+    - Lenzen, Victor Fritz
+    birthdate: 1890
+    deathdate: 1975
+    gutenberg_agent_id: '37401'
+    url: http://www.gutenberg.org/2009/agents/37401
+  - agent_name: Multhauf, Robert P.
+    birthdate: 1919
+    deathdate: 2004
+    gutenberg_agent_id: '34963'
+    url: http://www.gutenberg.org/2009/agents/34963
+description: ''
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Pendulum'
+title: 'Development of Gravity Pendulums in the 19th Century
+
+  Contributions from the Museum of History and Technology, Papers 34-44 On Science
+  and Technology, Smithsonian Institution, 1966'
+url: http://www.gutenberg.org/ebooks/35024
